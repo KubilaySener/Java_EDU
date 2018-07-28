@@ -1,1 +1,1 @@
-# ProjektBernA
+# JAVA Educational Content
